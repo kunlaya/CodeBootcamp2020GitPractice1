@@ -1,0 +1,7 @@
+text111111111
+<<<<<<< HEAD
+fixing some text.
+=======
+adding some text
+third added text
+>>>>>>> feature/text2
